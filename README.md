@@ -1,0 +1,2 @@
+# Netology
+Python basics homework
